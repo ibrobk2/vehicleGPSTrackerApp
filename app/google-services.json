@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "176663566497",
+    "firebase_url": "https://trackapp369-default-rtdb.firebaseio.com",
+    "project_id": "trackapp369",
+    "storage_bucket": "trackapp369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176663566497:android:95cacd4baa19f9823af8e0",
+        "android_client_info": {
+          "package_name": "com.example.vehiclegpstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176663566497-8k24pr2hsm986du32lb7coqsr5q515np.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vehiclegpstracker",
+            "certificate_hash": "331f5fc10b7656b73585e42ec40a089654fed6a2"
+          }
+        },
+        {
+          "client_id": "176663566497-4l2snhb0re4nf00g4kj089ig3cch22b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbfTbf7W2Vzt6SzcIcw4hVbCf9f2IzAh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176663566497-4l2snhb0re4nf00g4kj089ig3cch22b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176663566497:android:2bb046645bafdaa93af8e0",
+        "android_client_info": {
+          "package_name": "com.example.vehiclegpstrackin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176663566497-4l2snhb0re4nf00g4kj089ig3cch22b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbfTbf7W2Vzt6SzcIcw4hVbCf9f2IzAh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176663566497-4l2snhb0re4nf00g4kj089ig3cch22b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176663566497:android:818f2273d5433b273af8e0",
+        "android_client_info": {
+          "package_name": "javatar.com.trackin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176663566497-sg4nmdrdslsk7n4ce7pn03qmefflbfcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "javatar.com.trackin",
+            "certificate_hash": "331f5fc10b7656b73585e42ec40a089654fed6a2"
+          }
+        },
+        {
+          "client_id": "176663566497-4l2snhb0re4nf00g4kj089ig3cch22b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbfTbf7W2Vzt6SzcIcw4hVbCf9f2IzAh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176663566497-4l2snhb0re4nf00g4kj089ig3cch22b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
